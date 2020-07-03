@@ -13,6 +13,11 @@
 }
 
 .author__avatar img {
-    max-width: 200px;
+    max-width: 225px;
     border-radius: 0%;
+}
+.sidebar {
+  @include breakpoint($large) {
+    opacity: 1.0;
+    }
 }
