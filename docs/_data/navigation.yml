@@ -1,0 +1,13 @@
+main:
+  - title: "Skills"
+    url: /skills/
+  - title: "Education"
+    url: /education/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Competitions"
+    url: /competitions/
+  - title: "Experience"
+    url: /experience/

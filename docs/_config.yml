@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -79,9 +79,13 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Sheldon Sebastian" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://github.com/sheldonsebastian"
+    - "https://www.linkedin.com/in/sheldon-sebastian/"
+    - "https://medium.com/@sheldonsebastian94"
+    - "https://www.kaggle.com/coolcucumber94"
 
 # Analytics
 analytics:
@@ -93,31 +97,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Sheldon Sebastian"
+  avatar           : "/assets/images/bio.jpg" 
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : #
+  email            : #
   links:
-    - label: "Email"
+    - label: "sheldonsebastian94@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:sheldonsebastian94@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+      url: "https://github.com/sheldonsebastian"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/sheldon-sebastian/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@sheldonsebastian94"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/coolcucumber94"
+    - label: "Download Resume"
+      icon: "fas fa-file"
+      url: ""
+    
 # Site Footer
 footer:
   links:
