@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Sheldon Sebastian"
   avatar           : "/assets/images/bio.jpg" 
-  bio              : "I am an **amazing** person."
+  bio              : #
   location         : #
   email            : #
   links:
