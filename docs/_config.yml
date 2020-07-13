@@ -20,7 +20,7 @@ title                    : "Sheldon Sebastian"
 title_separator          : "-"
 subtitle                 : "Data Scientist | Machine Learning Engineer" # site tagline that appears below site title in masthead
 name                     : "Sheldon Sebastian"
-description              : "Sheldon Sebastian Data Scientist Data Science Machine Learning Engineer Computer Science Computer Engineer George Washington University GWU"
+description              : "My name is Sheldon Sebastian. I am a Data Science and Machine Learning Engineer enthusiast. I have completed my Bachelors Degree in Computer Engineer and I am currently pursuing my Masters in Data Science Degree at George Washington University (GWU)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "sheldonsebastian/portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
