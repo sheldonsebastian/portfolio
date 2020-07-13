@@ -67,7 +67,7 @@ function searchToObject() {
     if ( pairs[i] === "" ) continue;
 
     pair = pairs[i].split("=");
-    skill_array.push(decodeURIComponent( pair[1] ).replace("+"," ").toLowerCase());
+    skill_array.push(decodeURIComponent( pair[1] ).replaceAll("+"," ").toLowerCase());
   }
   
   return skill_array;
