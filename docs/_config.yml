@@ -22,7 +22,7 @@ subtitle                 : "Data Scientist | Machine Learning Engineer" # site t
 name                     : "Sheldon Sebastian"
 description              : "My name is Sheldon Sebastian. I am a Data Science and Machine Learning Engineer enthusiast. I have completed my Bachelors Degree in Computer Engineer and I am currently pursuing my Masters in Data Science Degree at George Washington University (GWU)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sheldonsebastian/portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png". This is related to posts
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
