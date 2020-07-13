@@ -1,0 +1,40 @@
+# filters always end with break. Also put break where you want to split
+filters:
+  - Python
+  - R
+  - Regression
+  - break
+  - Random Forest
+  - Machine Learning
+  - Exploratory Data Analysis
+  - break
+  
+filters_colspan: 3
+
+project_rows:
+    - name: Capital Bikeshare
+      id: 1
+      # image source without prepending any baseurl
+      image_source: /assets/images/capitalbike.png
+      url: https://sheldonsebastian.github.io/Capital-Bikeshare/
+      abstract:
+        Capital Bikeshare is very popular and always in demand service. This project predicts the number of bikes to use per hour and have contingencies to fulfill the demand. Various factors such as weather, temperature, working, or non-working hour, the hour of the day are factors to determine the number of bikes.
+      # should always be comma separated values
+      keywords: R, Regression, Random Forest, Machine Learning
+        
+    - name: American Time Use Survey
+      id: 2
+      image_source: /assets/images/atus.png
+      url: https://sheldonsebastian.github.io/American-Time-Use-Survey-Analysis/
+      abstract:
+        The major purpose of American Time Use Survey (ATUS) is to develop nationally representative estimates of how people spend their time. The inspiration behind this project is to understand how daily activities of Americans differ by employment status, income, gender, etc.
+      keywords: Python, Exploratory Data Analysis
+
+    - name: Ironman Triathlon Competition Analysis
+      id: 3
+      image_source: /assets/images/ironman.png
+      url: https://nbviewer.jupyter.org/github/sheldonsebastian/ironman-competition-analysis/blob/71bc8cf96033fc9fe8de80cdf1cd157312419bc9/Ironman%20Competition%20Analysis.ipynb#source_data
+      abstract:
+        An Ironman Triathlon consists of a 2.4-mile swim, a 112-mile bicycle ride and a marathon run, raced in that order. An exploratory data analysis was performed on the data and key insights are summarized.
+      keywords: Python, Exploratory Data Analysis
+    
