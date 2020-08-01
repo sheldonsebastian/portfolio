@@ -11,5 +11,7 @@ main:
  #   url: /certifications/
   - title: "Projects"
     url: /projects/
+  - title: "Blog"
+    url: https://blog.sheldonsebastian.com/
   #- title: "Competitions"
    # url: /competitions/
