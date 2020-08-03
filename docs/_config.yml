@@ -120,7 +120,7 @@ author:
    #   url: "https://www.kaggle.com/coolcucumber94"
     - label: "Download Resume"
       icon: "fas fa-file"
-      url: ""
+      url: "https://sheldon-s-resume.s3.amazonaws.com/Sheldon+Sebastian+Resume.pdf"
     
 # Site Footer
 footer:
