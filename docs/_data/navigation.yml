@@ -1,26 +1,11 @@
 main:
-  - title: "Skills"
-    url: /skills/
+  - title: "About"
+    url: /
     new_tab: false
-#  - title: "Competitions"
-#    url: /competitions/
-#    new_tab: false
-  - title: "Education"
-    url: /education/
-    new_tab: false
-  - title: "Experience"
-    url: /experience/
-    new_tab: false
-#  - title: "Certifications"
-#    url: /certifications/
-#    new_tab: false
   - title: "Projects"
     url: /projects/
     new_tab: false
   - title: "Blog"
-    url: https://blog.sheldonsebastian.com/
+    url: https://sheldonsebastian94.medium.com/
     new_tab: true
-  - title: "About"
-    url: /
-    new_tab: false
   

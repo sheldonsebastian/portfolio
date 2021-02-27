@@ -1,8 +1,6 @@
 ---
 layout: single
-author_profile: true
 ---
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <!--include the projects.yml file-->
@@ -11,7 +9,7 @@ author_profile: true
 <body> 
 <input type="button" value="Apply Filters" onclick="show_filters()">
 <input type="button" value="Clear All Filters" onclick="location.href='{{ "/projects/" | prepend:site.baseurl }}';">
-<p style="font-size: 0.80em;" id="applied_filters"></p>
+<p style="font-size: 1em;" id="applied_filters"></p>
 <div id="filters" style="display: none;"> 
 	<form action="{{ "/projects/" | prepend:site.baseurl }}" style="padding:0px;background-color:#eef1f6">
 	  <table style="display:inline-table">
@@ -32,15 +30,23 @@ author_profile: true
 	</form>
 </div> 
 
-<table style="width:150%">
+<table>
   {% for project_row in projects.project_rows %}
   <tbody id="{{project_row.id}}">
   <tr>
-    <td rowspan="2"><img src="{{ project_row.image_source  | prepend:site.baseurl }}"  onclick="location.href='{{project_row.url}}';" style="cursor: pointer;"/></td>
-	<td style="border:none"><h1 style="cursor: pointer;" onclick="location.href='{{project_row.url}}';">{{project_row.name}}</h1><p>{{project_row.abstract}}</p></td>
+    <td rowspan="2"><img src="{{ project_row.image_source  | prepend:site.baseurl }}"></td>
+	<td style="border:none">
+		<h1>{{project_row.name}}</h1>
+		<p>{{project_row.abstract}}</p></td>
   </tr>
   <tr>
-    <td class="keywords"><i>Keywords: </i>{{project_row.keywords}}</td>
+    <td>
+		<i>Keywords: </i><span class="keywords">{{project_row.keywords}}</span>
+		<br>
+		<a href='{{project_row.url}}' target="_blank">Website</a>
+		&nbsp;
+		<a href='{{project_row.github_repo}}' target="_blank">GitHub Repo</a>
+	</td>
   </tr>
   </tbody>
   {% endfor %}

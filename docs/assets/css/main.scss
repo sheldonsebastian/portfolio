@@ -3,7 +3,6 @@
 ---
 
 @charset "utf-8";
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -20,4 +19,14 @@
   @include breakpoint($large) {
     opacity: 1.0;
     }
+}
+
+.site-title{
+	font-size:40px
+}
+
+.page {
+    float: none;
+    width: 100%;
+    padding-right: 0px;
 }

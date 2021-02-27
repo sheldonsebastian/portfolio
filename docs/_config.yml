@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "default" #"contrast" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Sheldon Sebastian"
 title_separator          : "-"
-subtitle                 : "Data Scientist" # site tagline that appears below site title in masthead
+subtitle                 : # "Data Scientist" site tagline that appears below site title in masthead
 name                     : "Sheldon Sebastian"
-description              : "My name is Sheldon Sebastian. I am a Data Science and Machine Learning Engineer enthusiast. I have completed my Bachelors Degree in Computer Engineer and I am currently pursuing my Masters in Data Science Degree at George Washington University (GWU)"
+description              : "My name is Sheldon Sebastian. I am a Data Science and Machine Learning Engineer professional. I have completed my Bachelors Degree in Computer Engineer and I am currently pursuing my Masters in Data Science Degree at George Washington University (GWU)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sheldonsebastian/portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,30 +97,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sheldon Sebastian"
+  name             : # "Sheldon Sebastian"
   avatar           : "/assets/images/bio.jpg" 
   bio              : #
   location         : #
   email            : #
   links:
-    - label: "sheldonsebastian94@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sheldonsebastian94@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/sheldon-sebastian/"    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sheldonsebastian"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/sheldon-sebastian/"
-    #- label: "Medium"
-     # icon: "fab fa-fw fa-medium"
-      #url: "https://medium.com/@sheldonsebastian94"
- #   - label: "Kaggle"
-  #    icon: "fab fa-fw fa-kaggle"
-   #   url: "https://www.kaggle.com/coolcucumber94"
-    - label: "Download Resume"
-      icon: "fas fa-file"
-      url: "https://sheldon-s-resume.s3.amazonaws.com/Sheldon+Sebastian+Resume.pdf"
+    
     
 # Site Footer
 footer:
