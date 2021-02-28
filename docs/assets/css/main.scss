@@ -6,31 +6,31 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// to fix flicker issue
+.greedy-nav .visible-links a:before {
+    content: none;
+}
+
+// to fix image padding and border
 .author__avatar img {
     padding: 0px;
     border: 1px solid #bfbfbf;
 }
 
+// to change from circle to rectangle
 .author__avatar img {
     max-width: 225px;
     border-radius: 0%;
 }
-.sidebar {
-  @include breakpoint($large) {
-    opacity: 1.0;
-    }
-}
 
+// to increase size of site title
 .site-title{
 	font-size:40px
 }
 
-.page {
-    float: none;
-    width: 100%;
-    padding-right: 0px;
-}
-
-.greedy-nav .visible-links a:before {
-    content: none;
+// to fix hover image issue
+.sidebar {
+  @include breakpoint($large) {
+    opacity: 1.0;
+    }
 }

@@ -1,6 +1,14 @@
 ---
 layout: single
 ---
+<style type="text/css">
+.page{
+    float: none;
+    width: 100%;
+    padding-right: 0px;
+}
+</style>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <!--include the projects.yml file-->
