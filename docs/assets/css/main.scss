@@ -30,3 +30,7 @@
     width: 100%;
     padding-right: 0px;
 }
+
+.greedy-nav .visible-links a:before {
+    content: none;
+}
