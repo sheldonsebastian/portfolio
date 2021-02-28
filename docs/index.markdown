@@ -16,7 +16,7 @@ I am seeking a role in Data Science and Software Engineering field. I built this
 
 - I have built projects in Computer Vision, Natural Language Processing, Time series analysis, Deep Learning and Machine Learning. You can find them <a href="https://sheldonsebastian.com/projects/">here</a>.
 
-- As a <b>Statistical Consultant at George Washington University Library</b>, I have guided undergraduate, graduate and PhD students in Python, R, SQL, Statistics and Machine Learning.
+- As a <b>Statistical Consultant at George Washington University Library</b>, I have guided undergraduate, graduate and PhD students in academic projects and assignments in Python, R, SQL, Statistics and Machine Learning.
  
 - I have a <b>Bachelors Degree in Computer Engineering</b> and have worked as a <b>Software Developer for 2.5 years</b> writing production deployed Java code. 
 
