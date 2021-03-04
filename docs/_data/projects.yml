@@ -43,8 +43,26 @@ project_rows:
       keywords: Data Mining
       github_repo: https://github.com/sheldonsebastian/American-Time-Use-Survey-Analysis
 
-    - name: Ironman Triathlon Competition Analysis
+    - name: Recipe Extractor
       id: 4
+      image_source: /assets/images/recipes.png
+      url: https://github.com/sheldonsebastian/NLP-Project/blob/master/NLP_Final_Report.pdf
+      abstract:
+        The goal of this project is to create a recipe knowledge database. This is achieved by identifying and extracting - actions to perform on ingredients, utensils used, and identify ingredients and quantities from food recipes.
+      keywords: Natural Language Processing
+      github_repo: https://github.com/sheldonsebastian/NLP-Project
+
+    - name: Entity Extraction from Reuters Dataset
+      id: 5
+      image_source: /assets/images/reuters.png
+      url: https://github.com/sheldonsebastian/ReuterEntityExtraction/blob/master/homework_2.pdf
+      abstract:
+        Using spaCy extracted persons, location and organizations using Reuters dataset.
+      keywords: Natural Language Processing
+      github_repo: https://github.com/sheldonsebastian/ReuterEntityExtraction
+
+    - name: Ironman Triathlon Competition Analysis
+      id: 6
       image_source: /assets/images/ironman.png
       url: https://sheldonsebastian.github.io/Ironman-Competition-Analysis/
       abstract:
