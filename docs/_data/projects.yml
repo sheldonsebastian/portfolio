@@ -12,8 +12,19 @@ filters:
 filters_colspan: 3
 
 project_rows:
-    - name: Capital Bikeshare
+    - name: Face Mask Detector
       id: 1
+      # image source without prepending any baseurl
+      image_source: /assets/images/face_mask.png
+      url: https://github.com/Eserichard/Final-Project-Group5/blob/main/Final-Group-Project-Report/Final-Group-Project-Report.pdf
+      abstract:
+        The goal of this project is to identify whether a person is correctly wearing a mask or not. A person correctly wears a mask when the mask completely covers their mouth and nose.
+      # should always be comma separated values
+      keywords: Computer Vision
+      github_repo: https://github.com/sheldonsebastian/Final-Project-Group5
+
+    - name: Capital Bikeshare
+      id: 2
       # image source without prepending any baseurl
       image_source: /assets/images/capitalbike.png
       url: https://sheldonsebastian.github.io/Capital-Bikeshare/
@@ -24,7 +35,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/Capital-Bikeshare
     
     - name: Forecasting Traffic Volume
-      id: 2
+      id: 3
       # image source without prepending any baseurl
       image_source: /assets/images/traffic.png
       url: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-/blob/master/Term%20Project%20Report.pdf
@@ -35,7 +46,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-
     
     - name: American Time Use Survey
-      id: 3
+      id: 4
       image_source: /assets/images/atus.png
       url: https://sheldonsebastian.github.io/American-Time-Use-Survey-Analysis/
       abstract:
@@ -44,7 +55,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/American-Time-Use-Survey-Analysis
 
     - name: Recipe Extractor
-      id: 4
+      id: 5
       image_source: /assets/images/recipes.png
       url: https://github.com/sheldonsebastian/NLP-Project/blob/master/NLP_Final_Report.pdf
       abstract:
@@ -53,7 +64,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/NLP-Project
 
     - name: Entity Extraction from Reuters Dataset
-      id: 5
+      id: 6
       image_source: /assets/images/reuters.png
       url: https://github.com/sheldonsebastian/ReuterEntityExtraction/blob/master/homework_2.pdf
       abstract:
@@ -62,7 +73,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/ReuterEntityExtraction
 
     - name: Ironman Triathlon Competition Analysis
-      id: 6
+      id: 7
       image_source: /assets/images/ironman.png
       url: https://sheldonsebastian.github.io/Ironman-Competition-Analysis/
       abstract:
