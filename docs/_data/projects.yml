@@ -22,18 +22,29 @@ project_rows:
       # should always be comma separated values
       keywords: Machine Learning
       github_repo: https://github.com/sheldonsebastian/Capital-Bikeshare
-        
-    - name: American Time Use Survey
+    
+    - name: Forecasting Traffic Volume
       id: 2
+      # image source without prepending any baseurl
+      image_source: /assets/images/traffic.png
+      url: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-/blob/master/Term%20Project%20Report.pdf
+      abstract: 
+        In this project we are predicting traffic volume per day for the I94 interstate. To make accurate forecasts, 6 time series models were used and their performances were compared. 
+      # should always be comma separated values
+      keywords: Time Series Analysis
+      github_repo: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-
+    
+    - name: American Time Use Survey
+      id: 3
       image_source: /assets/images/atus.png
       url: https://sheldonsebastian.github.io/American-Time-Use-Survey-Analysis/
       abstract:
-        The major purpose of American Time Use Survey (ATUS) is to develop nationally representative estimates of how people spend their time. The inspiration behind this project is to understand how daily activities of Americans differ by employment status, income, gender, etc.
+        The purpose of American Time Use Survey (ATUS) is to develop nationally representative estimates of how people spend their time. The inspiration behind this project is to understand how daily activities of Americans differ by employment status, income, gender, etc.
       keywords: Data Mining
       github_repo: https://github.com/sheldonsebastian/American-Time-Use-Survey-Analysis
 
     - name: Ironman Triathlon Competition Analysis
-      id: 3
+      id: 4
       image_source: /assets/images/ironman.png
       url: https://sheldonsebastian.github.io/Ironman-Competition-Analysis/
       abstract:
