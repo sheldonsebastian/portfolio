@@ -109,8 +109,10 @@ author:
       url: "https://www.linkedin.com/in/sheldon-sebastian/"    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sheldonsebastian"
-    
+      url: "https://github.com/sheldonsebastian" 
+    - label: "Kaggle"
+      icon: "fab fa-kaggle"
+      url: "https://www.kaggle.com/sheldonsebastian"    
     
 # Site Footer
 footer:
