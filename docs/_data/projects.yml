@@ -23,8 +23,19 @@ project_rows:
       keywords: Computer Vision
       github_repo: https://github.com/sheldonsebastian/Final-Project-Group5
 
-    - name: Capital Bikeshare
+    - name: Fatality Prediction for Car Crash
       id: 2
+      # image source without prepending any baseurl
+      image_source: /assets/images/fatality_car_crash.png
+      url: https://github.com/sheldonsebastian/GW-Data-Science-Datathon/blob/main/1_final_report.ipynb
+      abstract: 
+        In this project we are predicting fatality of person in car crash. The dataset used was highly imbalanced for 1:minority there were 46:majority classes.
+      # should always be comma separated values
+      keywords: Machine Learning
+      github_repo: https://github.com/sheldonsebastian/GW-Data-Science-Datathon 
+
+    - name: Capital Bikeshare
+      id: 3
       # image source without prepending any baseurl
       image_source: /assets/images/capitalbike.png
       url: https://sheldonsebastian.github.io/Capital-Bikeshare/
@@ -35,7 +46,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/Capital-Bikeshare
     
     - name: Forecasting Traffic Volume
-      id: 3
+      id: 4
       # image source without prepending any baseurl
       image_source: /assets/images/traffic.png
       url: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-/blob/master/Term%20Project%20Report.pdf
@@ -46,7 +57,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-
     
     - name: American Time Use Survey
-      id: 4
+      id: 5
       image_source: /assets/images/atus.png
       url: https://sheldonsebastian.github.io/American-Time-Use-Survey-Analysis/
       abstract:
@@ -55,7 +66,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/American-Time-Use-Survey-Analysis
 
     - name: Recipe Extractor
-      id: 5
+      id: 6
       image_source: /assets/images/recipes.png
       url: https://github.com/sheldonsebastian/NLP-Project/blob/master/NLP_Final_Report.pdf
       abstract:
@@ -64,7 +75,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/NLP-Project
 
     - name: Entity Extraction from Reuters Dataset
-      id: 6
+      id: 7
       image_source: /assets/images/reuters.png
       url: https://github.com/sheldonsebastian/ReuterEntityExtraction/blob/master/homework_2.pdf
       abstract:
@@ -73,7 +84,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/ReuterEntityExtraction
 
     - name: Ironman Triathlon Competition Analysis
-      id: 7
+      id: 8
       image_source: /assets/images/ironman.png
       url: https://sheldonsebastian.github.io/Ironman-Competition-Analysis/
       abstract:
