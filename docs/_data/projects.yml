@@ -27,7 +27,7 @@ project_rows:
       id: 2
       # image source without prepending any baseurl
       image_source: /assets/images/fatality_car_crash.png
-      url: https://github.com/sheldonsebastian/GW-Data-Science-Datathon/blob/main/1_final_report.ipynb
+      url: https://sheldonsebastian.github.io/GW-Data-Science-Datathon/
       abstract: 
         In this project we are predicting fatality of person in car crash. The dataset used was highly imbalanced for 1:minority there were 46:majority classes.
       # should always be comma separated values
