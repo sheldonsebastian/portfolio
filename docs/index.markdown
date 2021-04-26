@@ -10,7 +10,7 @@ My name is Sheldon Sebastian and I am a Data Science and Software Engineering en
 
 <i>Here are my top attributes:</i>
 
-- I hold a <b>Masters in Data Science from George Washington University</b> which speaks to my technical knowledge and understanding of core Data Science fundamentals.
+- I am graduating from George Washington University in May 2021 with a <b>Masters in Data Science </b> which speaks to my technical knowledge and understanding of core Data Science fundamentals.
 
 - I am proficient in <b>communicating complex Data Science concepts</b> and <a href="https://towardsdatascience.com/man-is-to-computer-programmer-as-woman-is-to-homemaker-e57b07cbde96">my blog post</a> has been featured on Towards Data Science Publication.
 
