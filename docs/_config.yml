@@ -85,8 +85,6 @@ social:
   links: # An array of links to social media profiles
     - "https://github.com/sheldonsebastian"
     - "https://www.linkedin.com/in/sheldon-sebastian/"
-    - "https://medium.com/@sheldonsebastian94"
-    - "https://www.kaggle.com/coolcucumber94"
 
 # Analytics
 analytics:
@@ -110,9 +108,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sheldonsebastian" 
-    - label: "Kaggle"
-      icon: "fab fa-kaggle"
-      url: "https://www.kaggle.com/sheldonsebastian"    
+  
     
 # Site Footer
 footer:
