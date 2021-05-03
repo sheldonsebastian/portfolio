@@ -5,7 +5,7 @@ author_profile: true
 
 Thanks for visiting my portfolio!
 
-My name is Sheldon Sebastian and I am a Data Science and Software Engineering enthusiast. I created this website to showcase my expertise, skills and experience.
+My name is Sheldon Sebastian and I am a skilled Data Scientist with background in Software Engineering. I created this website to showcase my expertise, skills and experience.
 
 
 <i>Here are my top attributes:</i>
