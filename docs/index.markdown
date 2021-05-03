@@ -16,15 +16,9 @@ My name is Sheldon Sebastian and I am a Data Science and Software Engineering en
 
 - I have secured <a href="https://www.kaggle.com/sheldonsebastian">Top 14%</a> in Kaggle Object Detection Competition. 
 
-- I have built <a href="https://sheldonsebastian.com/projects/">projects</a> in Computer Vision, Natural Language Processing, Time series analysis, Deep Learning and Machine Learning.
-
-- As a <b>Statistical Consultant at George Washington University Library</b>, I have provided guidance to undergraduate, graduate and PhD students in academic projects and assignments in Python, R, SQL, Statistics and Machine Learning.
- 
-- I have a <b>Bachelors Degree in Computer Engineering</b> and have worked as a <b>Software Developer for 2.5 years</b> writing production level Java code. 
-
 - I love programming in Python and secured rank <b><a href = "https://www.hackerrank.com/results/hack-the-interview-u-s-2/coolcucumber94?h_r=profile"> 39 out of 1745 in Hackerrank Hackathon </a></b>.
 
-- I bring diversity to teams: <a href="https://www.forbes.com/sites/sianbeilock/2019/04/04/how-diversity-leads-to-better-outcomes/?sh=26ba034365ce">research</a> shows that diversity often makes more successful and innovative teams.
+- I believe in inclusion and diversity and <a href="https://www.forbes.com/sites/sianbeilock/2019/04/04/how-diversity-leads-to-better-outcomes/?sh=26ba034365ce">research</a> shows that diversity often makes more successful and innovative teams.
 
 ------------------------
 
@@ -33,7 +27,11 @@ My name is Sheldon Sebastian and I am a Data Science and Software Engineering en
 - Listening to Audio Books
 	- My recommendations: 
 		- <i>Stillness is the key</i> by Ryan Holiday
-		- <i> The Martian</i> by Andy Weir.
+		- <i>The Autobiography of Malcolm X</i> by Malcolm X, Alex Haley.
+- Reading Technical and Non-Technical Books
+	- My recommendations:
+		- <i>Hands-On Machine Learning</i> by Aurélien Géron.		
+		- <i>Atomic Habits</i> by James Clear		
+- Learn and participate in Hackathons
 - Taking long walks
-- Cooking
 

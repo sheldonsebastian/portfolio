@@ -12,8 +12,19 @@ filters:
 filters_colspan: 3
 
 project_rows:
-    - name: Face Mask Detector
+    - name: Abnormality Detection in Chest X-rays (CXR)
       id: 1
+      # image source without prepending any baseurl
+      image_source: /assets/images/cxr.png
+      url: https://sheldonsebastian.github.io/vbd_cxr/
+      abstract:
+        The goal of our project is passing a raw CXR image to our trained machine learning model(s) and get predicted abnormality detection bounding boxes overlaid on top of it as output.
+      # should always be comma separated values
+      keywords: Computer Vision
+      github_repo: https://github.com/sheldonsebastian/vbd_cxr
+
+    - name: Face Mask Detector
+      id: 2
       # image source without prepending any baseurl
       image_source: /assets/images/face_mask.png
       url: https://github.com/sheldonsebastian/Final-Project-Group5/blob/main/Final-Group-Project-Report/Final-Group-Project-Report.pdf
@@ -24,7 +35,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/Final-Project-Group5
 
     - name: Fatality Prediction for Car Crash
-      id: 2
+      id: 3
       # image source without prepending any baseurl
       image_source: /assets/images/fatality_car_crash.png
       url: https://sheldonsebastian.github.io/GW-Data-Science-Datathon/
@@ -35,7 +46,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/GW-Data-Science-Datathon 
 
     - name: Capital Bikeshare
-      id: 3
+      id: 4
       # image source without prepending any baseurl
       image_source: /assets/images/capitalbike.png
       url: https://sheldonsebastian.github.io/Capital-Bikeshare/
@@ -46,7 +57,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/Capital-Bikeshare
     
     - name: Forecasting Traffic Volume
-      id: 4
+      id: 5
       # image source without prepending any baseurl
       image_source: /assets/images/traffic.png
       url: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-/blob/master/Term%20Project%20Report.pdf
@@ -57,7 +68,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-
     
     - name: American Time Use Survey
-      id: 5
+      id: 6
       image_source: /assets/images/atus.png
       url: https://sheldonsebastian.github.io/American-Time-Use-Survey-Analysis/
       abstract:
@@ -66,7 +77,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/American-Time-Use-Survey-Analysis
 
     - name: Recipe Extractor
-      id: 6
+      id: 7
       image_source: /assets/images/recipes.png
       url: https://github.com/sheldonsebastian/NLP-Project/blob/master/NLP_Final_Report.pdf
       abstract:
@@ -75,7 +86,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/NLP-Project
 
     - name: Entity Extraction from Reuters Dataset
-      id: 7
+      id: 8
       image_source: /assets/images/reuters.png
       url: https://github.com/sheldonsebastian/ReuterEntityExtraction/blob/master/homework_2.pdf
       abstract:
@@ -84,7 +95,7 @@ project_rows:
       github_repo: https://github.com/sheldonsebastian/ReuterEntityExtraction
 
     - name: Ironman Triathlon Competition Analysis
-      id: 8
+      id: 9
       image_source: /assets/images/ironman.png
       url: https://sheldonsebastian.github.io/Ironman-Competition-Analysis/
       abstract:
