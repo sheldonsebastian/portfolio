@@ -18,7 +18,7 @@ project_rows:
       image_source: /assets/images/cxr.png
       url: https://sheldonsebastian.github.io/vbd_cxr/
       abstract:
-        The goal of our project is passing a raw CXR image to our trained machine learning model(s) and get predicted abnormality detection bounding boxes overlaid on top of it as output.
+        The goal of this project is passing a raw CXR image to our trained machine learning model(s) and get predicted abnormality detection bounding boxes overlaid on top of it as output.
       # should always be comma separated values
       keywords: Computer Vision
       github_repo: https://github.com/sheldonsebastian/vbd_cxr
