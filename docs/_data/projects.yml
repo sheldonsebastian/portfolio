@@ -27,12 +27,12 @@ project_rows:
       id: 2
       # image source without prepending any baseurl
       image_source: /assets/images/face_mask.png
-      url: https://github.com/sheldonsebastian/Final-Project-Group5/blob/main/Final-Group-Project-Report/Final-Group-Project-Report.pdf
+      url: https://sheldonsebastian.github.io/face_mask_detector/
       abstract:
         The goal of this project is to identify whether a person is correctly wearing a mask or not. A person correctly wears a mask when the mask completely covers their mouth and nose.
       # should always be comma separated values
       keywords: Computer Vision
-      github_repo: https://github.com/sheldonsebastian/Final-Project-Group5
+      github_repo: https://github.com/sheldonsebastian/face_mask_detector
 
     - name: Fatality Prediction for Car Crash
       id: 3
