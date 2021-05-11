@@ -60,12 +60,12 @@ project_rows:
       id: 5
       # image source without prepending any baseurl
       image_source: /assets/images/traffic.png
-      url: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-/blob/master/Term%20Project%20Report.pdf
+      url: https://sheldonsebastian.github.io/Traffic_Prediction_Using_Time_Series/
       abstract: 
         In this project we are predicting traffic volume per day for the I94 interstate. To make accurate forecasts, 6 time series models were used and their performances were compared. 
       # should always be comma separated values
       keywords: Time Series Analysis
-      github_repo: https://github.com/sheldonsebastian/Traffic-Prediction-Using-Time-Series-
+      github_repo: https://github.com/sheldonsebastian/Traffic_Prediction_Using_Time_Series
     
     - name: American Time Use Survey
       id: 6
