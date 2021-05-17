@@ -18,8 +18,6 @@ My name is Sheldon Sebastian and I am a skilled Data Scientist with strong backg
 
 - I love programming in Python and secured rank <b><a href = "https://www.hackerrank.com/results/hack-the-interview-u-s-2/coolcucumber94?h_r=profile"> 39 out of 1745 in Hackerrank Hackathon </a></b>.
 
-- I believe in inclusion and diversity, and <a href="https://www.forbes.com/sites/sianbeilock/2019/04/04/how-diversity-leads-to-better-outcomes/?sh=26ba034365ce">research</a> shows that diversity often makes more successful and innovative teams.
-
 - I have built <a href="https://sheldonsebastian.com/projects/">projects</a> in Computer Vision, Natural Language Processing, Time series analysis, Deep Learning and Machine Learning.
 
 ------------------------
