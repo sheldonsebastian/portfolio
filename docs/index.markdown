@@ -12,13 +12,13 @@ My name is Sheldon Sebastian and I am a skilled Data Scientist with strong backg
 
 - I hold  a <b>Masters in Data Science from George Washington University</b> which speaks to my technical knowledge and understanding of core Data Science fundamentals.
 
+- I have built projects in Computer Vision, Natural Language Processing, Time series analysis, Deep Learning and Machine Learning. Please browse them <b><a href="https://sheldonsebastian.com/projects/">here</a></b>.
+
 - I am proficient in <b>communicating complex Data Science concepts</b> and <a href="https://towardsdatascience.com/man-is-to-computer-programmer-as-woman-is-to-homemaker-e57b07cbde96">my blog post</a> has been featured on Towards Data Science Publication.
 
-- I have secured <a href="https://www.kaggle.com/sheldonsebastian">Top 14%</a> in Kaggle Object Detection Competition. 
+- I have secured <a href="https://www.kaggle.com/sheldonsebastian">Top 14% (176 of 1277)</a> in Kaggle Object Detection Competition. 
 
 - I love programming in Python and secured rank <b><a href = "https://www.hackerrank.com/results/hack-the-interview-u-s-2/coolcucumber94?h_r=profile"> 39 out of 1745 in Hackerrank Hackathon </a></b>.
-
-- I have built <a href="https://sheldonsebastian.com/projects/">projects</a> in Computer Vision, Natural Language Processing, Time series analysis, Deep Learning and Machine Learning.
 
 ------------------------
 
