@@ -5,14 +5,12 @@ author_profile: true
 
 Thanks for visiting my portfolio!
 
-My name is Sheldon Sebastian and I am a skilled Data Scientist with strong background in Software Engineering. I created this website to showcase my expertise, skills and experience.
+My name is Sheldon Sebastian and I am a skilled Data Scientist with strong background in Software Engineering. I created this website to showcase my expertise, skills and experience. I have built projects in Computer Vision, Natural Language Processing, Time series analysis, Deep Learning and Machine Learning. Please browse them <b><a href="https://sheldonsebastian.com/projects/">here</a></b>.
 
 
 <i>Here are my top attributes:</i>
 
 - I hold  a <b>Masters in Data Science from George Washington University</b> which speaks to my technical knowledge and understanding of core Data Science fundamentals.
-
-- I have built projects in Computer Vision, Natural Language Processing, Time series analysis, Deep Learning and Machine Learning. Please browse them <b><a href="https://sheldonsebastian.com/projects/">here</a></b>.
 
 - I am proficient in <b>communicating complex Data Science concepts</b> and <a href="https://towardsdatascience.com/man-is-to-computer-programmer-as-woman-is-to-homemaker-e57b07cbde96">my blog post</a> has been featured on Towards Data Science Publication.
 
